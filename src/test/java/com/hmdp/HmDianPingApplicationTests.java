@@ -94,6 +94,7 @@ class HmDianPingApplicationTests {
         System.out.println("嘿嘿嘿");
         System.out.println("i am hot-fix");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 
 
