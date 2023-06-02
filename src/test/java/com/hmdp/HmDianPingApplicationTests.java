@@ -88,6 +88,11 @@ class HmDianPingApplicationTests {
         }
     }
 
+    @Test
+    void aa(){
+        System.out.println("yejiu好帅！");
+    }
+
 
 
 
