@@ -91,6 +91,7 @@ class HmDianPingApplicationTests {
     @Test
     void aa(){
         System.out.println("yejiu好帅！");
+        System.out.println("嘿嘿嘿");
     }
 
 
