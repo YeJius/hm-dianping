@@ -92,6 +92,7 @@ class HmDianPingApplicationTests {
     void aa(){
         System.out.println("yejiu好帅！");
         System.out.println("嘿嘿嘿");
+        System.out.println("i am hot-fix");
     }
 
 
